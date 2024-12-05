@@ -69,3 +69,9 @@ hadool.addEventListener("click", hadoolFunc)
 tablet.addEventListener("click", tabletFunc)
 hac.addEventListener("click", hacFunc)
 cup.addEventListener("click", cupFunc)
+
+
+
+for(var i =0; i<10; i++)
+    {console.log(i)};
+ console.log(i)
